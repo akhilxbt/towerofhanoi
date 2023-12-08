@@ -1,6 +1,8 @@
 # towerofhanoi
 //Interactive Tower of Hanoi visualization in C++ with animation
+
 Tower of Hanoi Animation Project
+
 Overview
 This project is a simple implementation of the Tower of Hanoi puzzle with interactive graphics using C++ graphics library. The Tower of Hanoi is a classic problem that involves moving a stack of discs from one rod to another, following a few simple rules.
 
